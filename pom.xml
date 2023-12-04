@@ -4,15 +4,14 @@
     <parent>
         <groupId>org.jenkins-ci.plugins</groupId>
         <artifactId>plugin</artifactId>
-        <version>2.36</version>
+        <version>4.51</version>
         <relativePath />
     </parent>
     <artifactId>plasticscm-mergebot</artifactId>
     <version>0.17-SNAPSHOT</version>
     <packaging>hpi</packaging>
     <properties>
-        <jenkins.version>2.7.3</jenkins.version>
-        <java.level>7</java.level>
+        <jenkins.version>2.346.3</jenkins.version>
         <scm-api-plugin.version>2.0.8</scm-api-plugin.version>
         <workflow.version>1.14.2</workflow.version>
     </properties>
